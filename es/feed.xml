@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>About Wargames</title>
+    
+    
+    <description>About wargames RSS feed</description>
+    
+    <link>https://hgomdev.github.io/</link>
+    <atom:link href="https://hgomdev.github.io/es/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Reporte Romanos contra Galos</title>
+        
+        <dc:creator><![CDATA[ Honorio Gómez ]]></dc:creator>
+        
+        <description>
+          Clash of spears battle report - 
+          En el año 240 a. C., cuando la influencia de la República romana avanzaba cada vez más hacia las tierras del norte, los ríos marcaban fronteras naturales entre dos mundos distintos. Para Roma, el puente de madera que cruzaba aquel río era una vía estratégica: permitiría el paso de legiones,...
+        </description>
+        <pubDate>Wed, 11 Mar 2026 00:00:00 +0100</pubDate>
+        <link>https://hgomdev.github.io/2026-03-11-Romans-vs-Gauls-Report/</link>
+        <guid isPermaLink="true">https://hgomdev.github.io/2026-03-11-Romans-vs-Gauls-Report/</guid>
+      </item>
+    
+      <item>
+        <title>Sample blog post to learn markdown tips</title>
+        
+        <dc:creator><![CDATA[ Bill Smith ]]></dc:creator>
+        
+        <description>
+          There&apos;s lots to learn! - 
+          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/tables/etc.I also encourage you to look at the code that...
+        </description>
+        <pubDate>Fri, 28 Feb 2020 00:00:00 +0100</pubDate>
+        <link>https://hgomdev.github.io/2020-02-28-sample-markdown/</link>
+        <guid isPermaLink="true">https://hgomdev.github.io/2020-02-28-sample-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        
+        <dc:creator><![CDATA[ Sharon Smith and Barry Simpson ]]></dc:creator>
+        
+        <description>
+          Excerpt from Soulshaping by Jeff Brown - 
+          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0100</pubDate>
+        <link>https://hgomdev.github.io/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">https://hgomdev.github.io/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
