@@ -12,6 +12,20 @@
     
     
       <item>
+        <title>Army roster para Clash of spears</title>
+        
+        <dc:creator><![CDATA[ Honorio Gómez ]]></dc:creator>
+        
+        <description>
+          Webapp para confeccionar listas en Clash of Spears - 
+          Hoy os traigo una herramienta que me ha parecido especialmente util. Se trata de una web para poder confeccionar listas de ejercito en Clash of Spears. Contiene datos para poder usarla con: Punic Wars Rise of Eagles Clash of Katanas Arcane Companion Dark Ages (beta) Alexandrian (beta) Condottieri (beta) Es...
+        </description>
+        <pubDate>Tue, 17 Mar 2026 00:00:00 +0100</pubDate>
+        <link>https://hgomdev.github.io/2026-03-17-Clash-calculator/</link>
+        <guid isPermaLink="true">https://hgomdev.github.io/2026-03-17-Clash-calculator/</guid>
+      </item>
+    
+      <item>
         <title>Faqs Clash of spears V10</title>
         
         <dc:creator><![CDATA[ Honorio Gómez ]]></dc:creator>
